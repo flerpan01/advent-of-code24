@@ -1,0 +1,1 @@
+dat <- readLines("data/day1.txt")
