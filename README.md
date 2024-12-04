@@ -5,6 +5,7 @@ Advent of code 2024 solutions with R
 `bin/` holds the code for each day, `data/` holds the challenge inputs. Place your own inputs here and name them `dayX.txt`
 
 ```
+repo/
 |-- bin/
 |-- data/
 `-- README.md
